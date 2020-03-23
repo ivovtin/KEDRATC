@@ -9,6 +9,8 @@ root -l eff_ineff_one_layer.C
 root -l eff_ineff_single_cnt.C 
 ```
 
-
-
+Для толстого счетчика:<br />
+```
+root -l eff_ineff_thickcnt_single_cnt.C
+```
 
